@@ -1,0 +1,35 @@
+body{
+  background: url("https://images.unsplash.com/photo-1502635994848-2eb3b4a38201?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ffc263030a30c48dc22686ca2d050b80&auto=format&fit=crop&w=400&q=80");
+  opacity: .9;
+  width: 100px;
+  background-size: cover;
+	padding-top: 70px; 
+}
+
+.na{
+  padding-bottom: 5px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+
+
+
+
+
